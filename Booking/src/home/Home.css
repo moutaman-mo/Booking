@@ -1,0 +1,21 @@
+.main-page {
+    height: 90vh;
+    margin: 20px;
+}
+
+.barTop {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 10px;
+}
+
+.berLinks a {
+    color: #198754 !important;
+}
+
+.content-page {
+    background-color: #eee;
+    border-radius: 10px;
+    height: 90%;
+}

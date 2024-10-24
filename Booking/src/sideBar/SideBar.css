@@ -1,0 +1,10 @@
+.react-icon {
+    margin-right: 10px;
+}
+
+.text-primary {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    color: var(--color-primary)!important;
+}

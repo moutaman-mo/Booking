@@ -1,0 +1,21 @@
+:root {
+    --color-primary: #198754;
+    --color-primary-secondly: #FFF;
+}
+* {
+    text-decoration: none !important;
+}
+
+body {
+    height: 100vh;
+    width: 100%;
+}
+
+
+.app-main {
+    width: 100%;
+}
+
+#root {
+    --color-primary: #6366f1
+}
